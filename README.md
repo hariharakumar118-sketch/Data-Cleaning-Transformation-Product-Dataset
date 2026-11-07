@@ -217,8 +217,7 @@ excel-data-cleaning-product-dataset/
 │   └── Data_Cleaning_and_Transformation.xlsx
 ├── docs/
 │   └── Excel_Assignment_2_Documentation.docx
-└── screenshots/
-    └── cleaned-dataset.png
+
 ```
 
 ## 🚀 Skills Practised
